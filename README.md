@@ -3,7 +3,8 @@ This is my (M.tulasidhar) assignment that I have done with reference to the requ
 
 # video demonstration of my project :  
 
-# frameworks used: ReactJS , Django Rest Framework
+ ## frameworks used: 
+  ReactJS , Django Rest Framework
 
 # functionailities implemented:
   View Global Events( along with the custom image the user requested for)
