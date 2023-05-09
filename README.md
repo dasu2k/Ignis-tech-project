@@ -1,7 +1,8 @@
 # Ignis-tech-project
 This is my (M.tulasidhar) assignment that I have done with reference to the requirements Ignis tech has provided me.
 
-# video demonstration of my project :  
+# video demonstration of my project : 
+ https://youtu.be/wwQFksw4aYA
 
  ## frameworks used: 
   ReactJS , Django Rest Framework
