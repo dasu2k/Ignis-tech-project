@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-1bfeky#we_5b34($1r=qb&t)x%+%s5nl$rjzu2^9)m8*#ofk%d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+
+ALLOWED_HOSTS = ['tulasidhar1.pythonanywhere.com']
 
 
 # Application definition
@@ -78,7 +79,6 @@ WSGI_APPLICATION = 'eventDRF.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -92,6 +92,7 @@ DATABASES = {
         }
     }
 }
+
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
