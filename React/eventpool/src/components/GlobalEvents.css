@@ -1,0 +1,71 @@
+.event-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 500px;
+    
+    margin: auto
+  }
+  
+  .event-image {
+    position: relative;
+  }
+  
+  .event-image img {
+    display: block;
+    width: 100%;
+  }
+  
+  .like-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+  }
+  
+  .heart-button {
+    background: transparent;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 50px;
+    margin-right: 8px;
+    float: right;
+  }
+  
+  .heart-button:hover {
+    color: #ff5b5b;
+  }
+  
+  .like-count {
+    margin-right: 5px;
+  }
+  
+  .event-details {
+    padding: 20px;
+  }
+  
+  .event-title {
+    font-size: 1.5rem;
+    margin: 0 0 10px;
+  }
+  
+  .event-description {
+    margin: 0 0 10px;
+  }
+  
+  .event-date,
+  .event-location {
+    margin: 0;
+  }
+
+  body{
+    background-color: black;
+  }
+
+  .form{
+    color: black;
+  }
